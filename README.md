@@ -1,2 +1,6 @@
 # gfort
-Security helpers for Go
+Helpers for secure programming in Go.
+
+# Dependency
+
+* `github.com/pkg/errors`
